@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Joshcybr
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Joshcybr/Joshcybr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi my name is joshua Thomas. 
+Im interested in programming and expanding my skill set to help the economy grow better.
+I am currently a student a varsity college cape town ,studying a computer science degree. 
+Please find me on:
+Jt604447@gmail.com
+079 475 6534
+@_josh_luke_
